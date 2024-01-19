@@ -19,5 +19,5 @@ This React application provides a simple and customizable password generator. Us
 To run this application locally, follow these steps:
 
 1. Clone the repository to your local machine:
-2.  ```bash
+   ```bash
    git clone https://github.com/your-username/password-generator-app.git
